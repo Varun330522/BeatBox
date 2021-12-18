@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MIDI_2-0_Specification_Version_1-0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/Music/Midi/MIDI_2-0_Specification_Version_1-0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
